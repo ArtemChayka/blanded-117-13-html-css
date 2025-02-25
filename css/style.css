@@ -519,7 +519,6 @@ img {
 }
 .section-seven-wrapper-one {
   width: 100%;
-  /* padding-right: 50px; */
 }
 .section-seven-list-item {
   width: calc((100% - 60px) / 3);
